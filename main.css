@@ -29,3 +29,37 @@
     height: auto;
     justify-content: center;
    }
+   .sidenav{
+    background-color: #D4FCC3;
+   }
+   html{
+    background-color: #ACDDA2;
+   }
+   .container-fluid{
+    background-color: #ACDDA2;
+   }
+   hr{
+    border-top: 1px solid black;
+   }
+   p{
+    color: black; }
+    a{
+      color: black;
+    }
+    .pattern-zigzag-xl{
+      color: #93D68B}
+      footer{
+        background-color: lightgray !important;
+      }
+      .pattern-cross-dots-xl{
+color: #00c5a4
+      }
+      h2{
+        color: black;
+      }
+      .pattern-diagonal-stripes-xl{
+        color: #EC8905;
+      }
+      .pattern-horizontal-stripes-xl{
+        color:#B1B3EA;
+      }
